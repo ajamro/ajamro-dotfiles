@@ -1,0 +1,312 @@
+# Ten plik viminfo został wygenerowany przez Vima 7.4.
+# Możesz go ostrożnie edytować!
+
+# Wartość 'encoding' w czasie zapisu tego pliku
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ostatni podstawiany ciąg:
+$
+
+# Wiersz poleceń Historia (od najnowszych po najstarsze):
+:q
+:wq
+:q!
+:filetype
+:filetype plugin on
+:help ftplugin-overrule
+
+# Szukany ciąg Historia (od najnowszych po najstarsze):
+
+# Wyrażenie Historia (od najnowszych po najstarsze):
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+
+# Rejestry:
+""0	CHAR	0
+	 
+"1	LINE	0
+	" Global settings for all files (note: may be overwritten in ftplugin).
+"2	LINE	0
+	" Alternative: use the following to also enable language-dependent indenting.
+"-	CHAR	0
+	 
+
+# Zakładki w plikach:
+'0  1  0  ~/.td
+'1  1291  0  ~/.zcompdump
+'2  1  0  ~/.Xmodmap
+'3  1  0  ~/.windows-serial
+'4  3  0  ~/.syspeek/preferences.json
+'5  1  0  ~/.swt/lib/linux/x86_64
+'6  1  0  ~/.subversion/auth/svn.username
+'7  1  0  ~/.subversion/config
+'8  175  0  ~/.subversion/servers
+'9  1  0  ~/.sterwc
+
+# Lista odniesień (począwszy od najnowszych):
+-'  1  0  ~/.td
+-'  1291  0  ~/.zcompdump
+-'  1  0  ~/.zcompdump
+-'  1  0  ~/.Xmodmap
+-'  1  0  ~/.windows-serial
+-'  3  0  ~/.syspeek/preferences.json
+-'  1  0  ~/.syspeek/preferences.json
+-'  1  0  ~/.swt/lib/linux/x86_64
+-'  1  0  ~/.subversion/auth/svn.username
+-'  1  0  ~/.subversion/config
+-'  175  0  ~/.subversion/servers
+-'  1  0  ~/.subversion/servers
+-'  1  0  ~/.sterwc
+-'  1  0  ~/.stella/stellarc
+-'  1  0  ~/.selected_editor
+-'  8  0  ~/.rnd
+-'  1  0  ~/.rnd
+-'  1  0  ~/.python27_compiled
+-'  1  0  ~/.pyload/accounts.conf
+-'  41  0  ~/.pip/pip.log
+-'  1  0  ~/.pip/pip.log
+-'  52  0  ~/.photorec.cfg
+-'  1  0  ~/.photorec.cfg
+-'  1  0  ~/.nbprofiler/machinedata.jdk17
+-'  56  0  ~/.modelsim
+-'  1  0  ~/.modelsim
+-'  84  0  ~/.lesshst
+-'  1  0  ~/.lesshst
+-'  1  0  ~/.keystore
+-'  23  0  ~/.i-nex
+-'  1  0  ~/.ICEauthority
+-'  1  0  ~/.hte/v2_78/.swp
+-'  1  0  ~/.grsync/grsync.ini
+-'  1  0  ~/.fehbg
+-'  1  0  ~/.etracer/options
+-'  1  0  ~/.dmrc
+-'  1  0  ~/.distlib/resource-cache/.swp
+-'  1  0  ~/.compiz/session/101898bdc72cd63c6139706366441029200000026360001
+-'  49  0  ~/.ccache/0/0/2ca8c20a2622db9efa953a8600507c-238814.d
+-'  1  0  ~/.ccache/0/0/2ca8c20a2622db9efa953a8600507c-238814.d
+-'  1  0  ~/.bash_logout
+-'  1  0  ~/.aptitude/config
+-'  1  0  ~/.aptitude/cache
+-'  1  0  ~/.anyconnect
+-'  1  0  ~/.android
+-'  1  0  ~/Devel/INZ/tex/diploma/README.md
+-'  1  0  /tmp/hplip-3.14.3-plugin.run.asc
+-'  1  0  /usr/share/applications/super-hexagon.desktop
+-'  5  33  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  0  ~/.gitconfig
+-'  7  4  ~/.git/info/exclude
+-'  1  0  ~/.git/info/exclude
+-'  1  0  ~/.gitmodules
+-'  114  0  ~/.vim/autoload/pathogen.vim
+-'  1  0  ~/.vim/autoload/pathogen.vim
+-'  15  0  ~/Devel/FUN/Pyton/SiCoDo/main.py
+-'  1  0  ~/Devel/FUN/Pyton/SiCoDo/main.py
+-'  3  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  7  0  ~/.vim/ftplugin/python.vim
+-'  1  0  ~/.vim/ftplugin/python.vim
+-'  14  24  ~/Devel/FUN/Pyton/SiCoDo/main.py
+-'  2  0  ~/.vimrc
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  11  14  ~/.vimrc
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  1  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+-'  2  0  /tmp/test.py
+
+# Historia zakładek w plikach (od najnowszych po najstarsze):
+
+> ~/.td
+	"	1	0
+
+> ~/.zcompdump
+	"	1291	0
+
+> ~/.Xmodmap
+	"	1	0
+
+> ~/.windows-serial
+	"	1	0
+
+> ~/.syspeek/preferences.json
+	"	3	0
+
+> ~/.subversion/config
+	"	1	0
+
+> ~/.subversion/servers
+	"	175	0
+
+> ~/.sterwc
+	"	1	0
+
+> ~/.stella/stellarc
+	"	1	0
+
+> ~/.selected_editor
+	"	1	0
+
+> ~/.rnd
+	"	8	0
+
+> ~/.pyload/accounts.conf
+	"	1	0
+
+> ~/.pip/pip.log
+	"	41	0
+
+> ~/.photorec.cfg
+	"	52	0
+
+> ~/.nbprofiler/machinedata.jdk17
+	"	1	0
+
+> ~/.modelsim
+	"	56	0
+
+> ~/.lesshst
+	"	84	0
+
+> ~/.keystore
+	"	1	0
+
+> ~/.ICEauthority
+	"	1	0
+
+> ~/.hte/v2_78/.swp
+	"	1	0
+
+> ~/.grsync/grsync.ini
+	"	1	0
+
+> ~/.fehbg
+	"	1	0
+
+> ~/.etracer/options
+	"	1	0
+
+> ~/.dmrc
+	"	1	0
+
+> ~/.distlib/resource-cache/.swp
+	"	1	0
+
+> ~/.compiz/session/101898bdc72cd63c6139706366441029200000026360001
+	"	1	0
+
+> ~/.ccache/0/0/2ca8c20a2622db9efa953a8600507c-238814.d
+	"	49	0
+
+> ~/.bash_logout
+	"	1	0
+
+> ~/.aptitude/config
+	"	1	0
+
+> ~/.aptitude/cache
+	"	1	0
+
+> ~/.anyconnect
+	"	1	0
+
+> ~/Devel/INZ/tex/diploma/README.md
+	"	1	0
+
+> /tmp/hplip-3.14.3-plugin.run.asc
+	"	1	0
+
+> /usr/share/applications/super-hexagon.desktop
+	"	1	0
+
+> /etc/hosts
+	"	5	33
+	^	5	44
+	.	5	33
+	+	5	33
+
+> ~/.gitconfig
+	"	1	0
+
+> ~/.git/info/exclude
+	"	7	4
+	^	7	5
+	.	7	3
+	+	7	3
+
+> ~/.gitmodules
+	"	1	0
+
+> ~/.vim/autoload/pathogen.vim
+	"	114	0
+
+> ~/Devel/FUN/Pyton/SiCoDo/main.py
+	"	15	0
+	^	15	0
+	.	15	0
+	+	16	0
+	+	14	25
+	+	15	0
+
+> ~/.vimrc
+	"	3	0
+	^	8	16
+	.	3	0
+	+	2	71
+	+	9	13
+	+	11	14
+	+	3	18
+	+	4	0
+	+	2	0
+	+	6	0
+	+	4	25
+	+	3	0
+	+	8	15
+	+	3	0
+
+> ~/.vim/ftplugin/python.vim
+	"	7	0
+	^	7	0
+	.	6	28
+	+	6	28
+
+> /usr/share/vim/vim74/doc/filetype.txt
+	"	424	35
+
+> /tmp/test.py
+	"	2	0
+	^	2	3
+	.	2	2
+	+	2	2
