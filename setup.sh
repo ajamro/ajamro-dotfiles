@@ -11,6 +11,7 @@ echo
 pushd "$DST"
 for filename in $REL/.[a-z0-9A-Z]*
 do
+	[[ $filename =~ $REL/.git.* ]] && continue
 	# [ -e "$REL/$filename" ] && rm -R "$REL/$filename"
 	echo ln -sf "$filename" "."
 	ln -sf "$filename" "."
