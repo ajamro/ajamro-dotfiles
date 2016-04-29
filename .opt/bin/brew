@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [ ! -d "$HOME/.linuxbrew" ]
+then
+	cat 1>&2 <<-EOE
+	# ~/.linuxbrew directory is missing. Please check your installation!
+	EOE
+	exit 1
+fi
+
+cat <<-EOCFG
+PATH="\$HOME/.linuxbrew/bin:\$PATH"
+MANPATH="\$HOME/.linuxbrew/share/man:\$MANPATH"
+INFOPATH="\$HOME/.linuxbrew/share/info:\$INFOPATH"
+HOMEBREW_BUILD_FROM_SOURCE=1
+# Run this command to configure your shell:
+# eval \$($0)
+EOCFG
