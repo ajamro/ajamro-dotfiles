@@ -111,3 +111,7 @@ mdcd() {
     mkdir "$1"
     cd "$1"
 }
+
+if [ -d $HOME/.opt/bin ]; then
+		PATH="$PATH:$HOME/.opt/bin"
+fi
